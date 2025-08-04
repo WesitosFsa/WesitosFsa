@@ -56,6 +56,3 @@ Visita mi perfil y mis proyectos: **[WesitosFsa (Mateo Garzón) en GitHub](https
 
 ---
 
-*Este README está basado en la información visible públicamente en mi perfil GitHub.*  
-¿Quieres agregar algo más? Funcionalidades recientes o proyectos nuevos que quieras resaltar, logos, secciones de tecnologías o estado profesional, etc. ¡Estoy para ayudarte!
-::contentReference[oaicite:12]{index=12}
