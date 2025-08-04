@@ -4,7 +4,7 @@ Desarrollador de software apasionado por programar y crear soluciones que aporte
 
 - 🌎 Ubicación: Ecuador 
 - 🎓 Educación: EPN (Escuela Politécnica Nacional) 
-- 🔧 Tecnologías: JavaScript, TypeScript, Java, Python, Django, Full-Stack development (según repos privados) 
+- 🔧 Tecnologías: JavaScript, TypeScript, Java, Python, Django, Full-Stack development 
 - 🚀 Intereses: Desarrollar herramientas backend, páginas web completas, soluciones educativas y experiencias interactivas.
 
 ---
@@ -15,13 +15,12 @@ Aquí algunos proyectos públicos recientes de gran interés:
 
 | Proyecto               | Descripción breve |
 |------------------------|-------------------|
-| **CochasquiApp**       | Aplicacion de Realidad Aumentada y Mapa Interactivo en android (Flutter) :contentReference[oaicite:4]{index=4} |
-| **Backend-Api-Tiendas**| API backend para administrador de usuarios y productos (MongoDB + JS), ideal para tiendas gamer :contentReference[oaicite:5]{index=5} |
-| **Pagina-QuitoTech**   | Proyecto full-stack: página web de tiendas en Quito (JS) :contentReference[oaicite:6]{index=6} |
-| **Juego-de-EPN-**      | Juego basado en FNAF desarrollado en Java empleando libGDX en 7 días :contentReference[oaicite:7]{index=7} |
-| **FrontendPlantilla**  | CRUD Simple hecho con React como plantilla :contentReference[oaicite:8]{index=8} |
-| **CardWars**           | Juego basado en Card Jitsu usando JavaScript, HTML y CSS (TypeScript) :contentReference[oaicite:9]{index=9} |
-
+| **CochasquiApp**       | Aplicacion de Realidad Aumentada y Mapa Interactivo en android (Flutter)
+| **Backend-Api-Tiendas**| API backend para administrador de usuarios y productos (MongoDB + JS), ideal para tiendas gamer 
+| **Pagina-QuitoTech**   | Proyecto full-stack: página web de tiendas en Quito (JS) 
+| **Juego-de-EPN-**      | Juego basado en FNAF desarrollado en Java empleando libGDX en 7 días 
+| **FrontendPlantilla**  | CRUD Simple hecho con React como plantilla 
+| **CardWars**           | Juego basado en Card Jitsu usando JavaScript, HTML y CSS (TypeScript)
 ---
 
 ## 🧩 Herramientas y tecnologías
@@ -46,8 +45,8 @@ Aunque el perfil no muestra un listado explícito, los repositorios públicos in
 
 Puedes encontrarme en:
 
-- [Instagram](https://www.instagram.com/mateofsa_owo) — `mateofsa_owo` :contentReference[oaicite:10]{index=10}  
-- [LinkedIn](https://www.linkedin.com/in/mateo-garzon-b55219252) — `mateo-garzon` :contentReference[oaicite:11]{index=11}  
+- [Instagram](https://www.instagram.com/mateofsa_owo) — `mateofsa_owo` 
+- [LinkedIn](https://www.linkedin.com/in/mateo-garzon-b55219252) — `mateo-garzon`
 
 ---
 
