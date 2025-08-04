@@ -2,9 +2,9 @@
 
 Desarrollador de software apasionado por programar y crear soluciones que aporten algo nuevo a la sociedad. Egresado de la EPN (Ecuador).
 
-- 🌎 Ubicación: Ecuador :contentReference[oaicite:1]{index=1}  
-- 🎓 Educación: EPN (Escuela Politécnica Nacional) :contentReference[oaicite:2]{index=2}  
-- 🔧 Tecnologías: JavaScript, TypeScript, Java, Python, Django, Full-Stack development (según repos privados) :contentReference[oaicite:3]{index=3}  
+- 🌎 Ubicación: Ecuador 
+- 🎓 Educación: EPN (Escuela Politécnica Nacional) 
+- 🔧 Tecnologías: JavaScript, TypeScript, Java, Python, Django, Full-Stack development (según repos privados) 
 - 🚀 Intereses: Desarrollar herramientas backend, páginas web completas, soluciones educativas y experiencias interactivas.
 
 ---
