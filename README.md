@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="gif xd"  />
+<img align="right" height="150" src="gif xd" alt="gif pendiente" />
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="serpiente  xd" alt="Snake animation" />
+<img src="serpiente  xd" alt="gif pendiente" />
 
 ###
