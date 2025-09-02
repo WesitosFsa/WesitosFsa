@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/WesitosFsa/WesitosFsa/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/WesitosFsa/WesitosFsa/6c0a10727c005aaf2c1dd8969214e8791f1e8c3d/snake.svg" alt="Snake animation" />
 
 ###
