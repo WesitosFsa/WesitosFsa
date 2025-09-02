@@ -3,7 +3,7 @@
   <rect width="100%" height="100%" fill="black" />
 
 
-  <image href="https://github.com/WesitosFsa/WesitosFsa/blob/main/cute.png"
+  <image href="https://pbs.twimg.com/media/FHewhEgXoAcBHD1.jpg"
          width="50" height="50">
     <animate attributeName="x"
              values="0;350;0"
@@ -20,7 +20,7 @@
   </image>
 
 
-  <image href="https://github.com/WesitosFsa/WesitosFsa/blob/main/cute.png"
+  <image href="https://pbs.twimg.com/media/FHewhEgXoAcBHD1.jpg"
          width="50" height="50">
     <animate attributeName="x"
              values="350;0;350"
@@ -52,3 +52,4 @@
 
 
 </svg>
+
