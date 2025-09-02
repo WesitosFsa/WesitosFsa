@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<!-- <img align="right" height="150" src="gif xd" alt="gif pendiente" /> -->
+<img src="https://raw.githubusercontent.com/WesitosFsa/WesitosFsa/output/snake.svg" alt="Snake animation" />
 
 ###
