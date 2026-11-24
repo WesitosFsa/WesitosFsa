@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="66%" valign="top">
-      <h3>🔺 <code>HEY! LISTEN!</code> — Player Bio</h3>
+      <h3><code>HEY! LISTEN!</code> — Player Bio</h3>
       <p>
         Hi! I'm <strong>Mateo Garzón Rubio</strong> (<code>WesitosFsa</code>), a
         <strong>Software Development Technologist</strong> graduated from
@@ -26,10 +26,10 @@
         with hands-on <strong>Infrastructure &amp; Systems Support</strong> (TCP/IP networking, Windows Server, Rocky Linux, Docker, AWS).
       </p>
       <ul>
-        <li>⚔️ <strong>Current Quest:</strong> Systems Support Analyst @ <em>Seit Ingenieros</em></li>
-        <li>🧪 <strong>Playstyle:</strong> TDD, Pair Programming, CI/CD &amp; Scrum/Agile</li>
-        <li>🎮 <strong>Side Passion:</strong> Game Dev in Godot &amp; Augmented Reality apps</li>
-        <li>🌐 <strong>Base Camp:</strong> <a href="https://wesitosfsa.github.io">wesitosfsa.github.io</a></li>
+        <li>-<strong>Current Quest:</strong> Systems Support Analyst @ <em>Seit Ingenieros</em></li>
+        <li>-<strong>Playstyle:</strong> TDD, Pair Programming, CI/CD &amp; Scrum/Agile</li>
+        <li>-<strong>Side Passion:</strong> Game Dev in Godot &amp; Augmented Reality apps</li>
+        <li>-<strong>Base Camp:</strong> <a href="https://wesitosfsa.github.io">wesitosfsa.github.io</a></li>
       </ul>
     </td>
     <td width="34%" align="center" valign="middle">
@@ -43,7 +43,7 @@
 <br />
 
 <!-- ==================== INVENTORY / TECH STACK ==================== -->
-### 🎒 Adventure Inventory (Tech Stack)
+###  Adventure Inventory (Tech Stack)
 
 > Every tool equipped in my pouch—from backend blades to cloud shields.
 
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
-#### 🛡️ Gear &amp; Arcane Arts — Mobile &amp; Game Dev
+####  Gear &amp; Arcane Arts — Mobile &amp; Game Dev
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🧪 Potions — Databases &amp; Storage
+####  Potions — Databases &amp; Storage
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-#### 🏰 Hyrule Infrastructure — Cloud, DevOps &amp; Systems
+####  Hyrule Infrastructure — Cloud, DevOps &amp; Systems
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS EC2 & S3" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -95,31 +95,31 @@
 <br />
 
 <!-- ==================== QUEST LOG ==================== -->
-### 📜 Quest Log — Featured Projects &amp; Experience
+###  Quest Log — Featured Projects &amp; Experience
 
 | Quest | Role &amp; Stack | Highlights |
 | :--- | :--- | :--- |
-| 🎮 **Game Jam Plus — 10th Edition** *(2025–2026)* | `Jammer` · `Godot (GDScript)` | Built a game prototype under tight deadlines; **selected for the Incubation Stage** focused on debugging &amp; performance optimization. |
-| 🗿 **Cochasquí Archaeological Park App** *(2025)* | `Thesis Project` · `Flutter` `AR` `SQLite` `Supabase` | Mobile app featuring interactive maps &amp; **Augmented Reality (AR)** with local SQLite + Supabase offline/online sync. |
-| 🖥️ **Seit Ingenieros** *(Apr 2026 – Present)* | `Systems Support Analyst` · `TCP/IP` `Windows Server` `Cloud` | Network administration, virtualization, cloud optimization, backup &amp; disaster recovery, and remote end-user support. |
-| 🌐 **VirtualWolf** *(Aug 2024 – Oct 2024)* | `Intern – Web Developer` · `PHP` `Git` | Developed web features in PHP, resolved production bugs via log analysis, and collaborated with Git-based workflows. |
+|  **Game Jam Plus — 10th Edition** *(2025–2026)* | `Jammer` · `Godot (GDScript)` | Built a game prototype under tight deadlines; **selected for the Incubation Stage** focused on debugging &amp; performance optimization. |
+|  **Cochasquí Archaeological Park App** *(2025)* | `Thesis Project` · `Flutter` `AR` `SQLite` `Supabase` | Mobile app featuring interactive maps &amp; **Augmented Reality (AR)** with local SQLite + Supabase offline/online sync. |
+|  **Seit Ingenieros** *(Apr 2026 – Present)* | `Systems Support Analyst` · `TCP/IP` `Windows Server` `Cloud` | Network administration, virtualization, cloud optimization, backup &amp; disaster recovery, and remote end-user support. |
+|  **VirtualWolf** *(Aug 2024 – Oct 2024)* | `Intern – Web Developer` · `PHP` `Git` | Developed web features in PHP, resolved production bugs via log analysis, and collaborated with Git-based workflows. |
 
 <details>
 <summary>🏅 <strong>Unlocked Achievements &amp; Certifications</strong> (click to expand)</summary>
 <br />
 
-- 🛡️ **CCTV Certified General Security Associate (CGSA)** — *Hikvision* (Jul 2026 – Jul 2031)
-- 🎮 **Game Jam Plus 10th Edition** — *Jammer Certificate &amp; Incubation Stage Certificate* (2025–2026)
-- ☕ **Beginner Programming Training G3** — *ONE (Oracle Next Education)*
-- 🌱 **Personal Development Training G3** — *ONE (Oracle Next Education)*
-- 🎓 **Associate Degree in Software Development (Tecnología Superior)** — *Escuela Politécnica Nacional* (Apr 2022 – Nov 2025)
+-  **CCTV Certified General Security Associate (CGSA)** — *Hikvision* (Jul 2026 – Jul 2031)
+-  **Game Jam Plus 10th Edition** — *Jammer Certificate &amp; Incubation Stage Certificate* (2025–2026)
+-  **Beginner Programming Training G3** — *ONE (Oracle Next Education)*
+-  **Personal Development Training G3** — *ONE (Oracle Next Education)*
+-  **Associate Degree in Software Development (Tecnología Superior)** — *Escuela Politécnica Nacional* (Apr 2022 – Nov 2025)
 
 </details>
 
 <br />
 
 <!-- ==================== SAVE POINT / CONTACT ==================== -->
-### 💾 Save Point — Connect With Me
+###  Save Point — Connect With Me
 
 <div align="left">
   <a href="https://wesitosfsa.github.io">
@@ -142,7 +142,7 @@
 <br />
 
 <!-- ==================== HYRULE CONTRIBUTION SNAKE ==================== -->
-### 🐍 Hyrule Activity Trail
+###  Hyrule Activity Trail
 
 <div align="center">
   <img src="./snake.svg" alt="Contribution snake animation" />
