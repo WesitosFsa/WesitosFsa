@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="175" viewBox="0 0 850 175" role="img" aria-label="Mateo Garzon - Hyrule Developer Profile Banner">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#111b27"/>
+      <stop offset="100%" stop-color="#0d1512"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047"/>
+      <stop offset="50%" stop-color="#eab308"/>
+      <stop offset="100%" stop-color="#ca8a04"/>
+    </linearGradient>
+    <linearGradient id="sheikahGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Outer Card -->
+  <rect x="2" y="2" width="846" height="171" rx="14" fill="url(#bgGrad)" stroke="#30363d" stroke-width="2"/>
+  <!-- Inner RPG Frame -->
+  <rect x="10" y="10" width="830" height="155" rx="10" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" stroke-opacity="0.65"/>
+
+  <!-- Corner Ornaments -->
+  <path d="M18 28 L18 18 L28 18" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M822 18 L832 18 L832 28" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M18 147 L18 157 L28 157" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M822 157 L832 157 L832 147" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Triforce Emblem (Left) -->
+  <g transform="translate(42, 42)" filter="url(#glow)">
+    <!-- Top Triangle -->
+    <polygon points="45,4 67,42 23,42" fill="url(#goldGrad)">
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="2.8s" repeatCount="indefinite"/>
+    </polygon>
+    <!-- Bottom Left Triangle -->
+    <polygon points="23,44 45,82 1,82" fill="url(#goldGrad)">
+      <animate attributeName="opacity" values="1;0.8;1" dur="2.8s" repeatCount="indefinite"/>
+    </polygon>
+    <!-- Bottom Right Triangle -->
+    <polygon points="67,44 89,82 45,82" fill="url(#goldGrad)">
+      <animate attributeName="opacity" values="0.9;1;0.75;0.9" dur="2.8s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <!-- Floating Fairy (Navi-inspired) -->
+  <g transform="translate(132, 34)">
+    <circle cx="8" cy="8" r="5" fill="#7dd3fc" filter="url(#glow)">
+      <animate attributeName="cy" values="8;4;8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <ellipse cx="2" cy="5" rx="4" ry="2" fill="#e0f2fe" opacity="0.8">
+      <animate attributeName="cy" values="5;1;5" dur="2s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="14" cy="5" rx="4" ry="2" fill="#e0f2fe" opacity="0.8">
+      <animate attributeName="cy" values="5;1;5" dur="2s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Pixel Hearts HUD (Top Right) -->
+  <g transform="translate(650, 26)" fill="#ef4444">
+    <path d="M4,2 h3 v2 h2 v-2 h3 v2 h2 v4 h-2 v2 h-2 v2 h-2 v2 h-2 v-2 h-2 v-2 h-2 v-2 h-2 v-4 h2 z" transform="translate(0,0)"/>
+    <path d="M4,2 h3 v2 h2 v-2 h3 v2 h2 v4 h-2 v2 h-2 v2 h-2 v2 h-2 v-2 h-2 v-2 h-2 v-2 h-2 v-4 h2 z" transform="translate(22,0)"/>
+    <path d="M4,2 h3 v2 h2 v-2 h3 v2 h2 v4 h-2 v2 h-2 v2 h-2 v2 h-2 v-2 h-2 v-2 h-2 v-2 h-2 v-4 h2 z" transform="translate(44,0)"/>
+    <path d="M4,2 h3 v2 h2 v-2 h3 v2 h2 v4 h-2 v2 h-2 v2 h-2 v2 h-2 v-2 h-2 v-2 h-2 v-2 h-2 v-4 h2 z" transform="translate(66,0)"/>
+    <path d="M4,2 h3 v2 h2 v-2 h3 v2 h2 v4 h-2 v2 h-2 v2 h-2 v2 h-2 v-2 h-2 v-2 h-2 v-2 h-2 v-4 h2 z" transform="translate(88,0)"/>
+    <!-- Rupee counter -->
+    <g transform="translate(120, -1)">
+      <polygon points="7,0 13,5 13,12 7,17 1,12 1,5" fill="#22c55e" stroke="#86efac" stroke-width="1"/>
+      <text x="19" y="13" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#86efac">999</text>
+    </g>
+  </g>
+
+  <!-- Main Text Content -->
+  <text x="172" y="46" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#38bdf8" letter-spacing="1.5">
+    ► HEY! LISTEN!  //  HYRULE DEV PROFILE
+  </text>
+
+  <text x="172" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#f8fafc">
+    Mateo Garzón
+    <tspan font-size="20" font-weight="600" fill="#eab308"> (WesitosFsa)</tspan>
+  </text>
+
+  <text x="172" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#cbd5e1">
+    Full-Stack Developer  •  Systems Support Analyst  •  Quito, Ecuador 🇪🇨
+  </text>
+
+  <!-- Bottom HUD Bar -->
+  <line x1="172" y1="130" x2="812" y2="130" stroke="url(#sheikahGrad)" stroke-width="1.5" stroke-opacity="0.5"/>
+  <text x="172" y="149" font-family="'Courier New', monospace" font-size="12" fill="#94a3b8">
+    CLASS: <tspan fill="#e2e8f0" font-weight="bold">Software Technologist (EPN)</tspan>   |   QUESTS: <tspan fill="#4ade80" font-weight="bold">Web • Mobile • Cloud • Godot</tspan>
+  </text>
+</svg>
