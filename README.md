@@ -19,7 +19,7 @@
       <p>
         Hi! I'm <strong>Mateo Garzón Rubio</strong> (<code>WesitosFsa</code>), a
         <strong>Software Development Technologist</strong> graduated from
-        <em>Escuela Politécnica Nacional (EPN)</em> in Quito, Ecuador 🇪🇨.
+        <em>Escuela Politécnica Nacional (EPN)</em> in Ecuador 🇪🇨.
       </p>
       <p>
         I combine <strong>Full-Stack Web &amp; Mobile Development</strong> (Java/Spring Boot, React, Node.js, PHP, Flutter)
