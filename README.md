@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/zelda-banner.svg" alt="Mateo Garzón - Hyrule Developer Profile Banner" width="100%" />
+  <img src="./assets/zelda-banner.svg?v=2" alt="Mateo Garzón - Hyrule Developer Profile Banner" width="100%" />
 </div>
 
 <div align="center">
